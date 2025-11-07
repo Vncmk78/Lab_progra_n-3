@@ -1,3 +1,5 @@
+#se calcula el cuadrado de los numeros 1 al 10 
+
 class Cuadrado:
     def se_crea(self):
         m = []
