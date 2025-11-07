@@ -1,3 +1,5 @@
+#se calcula los impares de la lista numeros
+
 def impares(lista):
     for m in lista:
         if m % 2 != 0:
