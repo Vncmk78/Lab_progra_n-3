@@ -1,3 +1,5 @@
+#se imprimen las palabras en mayusculas con iter y next 
+
 class Mayusculas:
     def __init__(self, cadenas):
         self.cadenas = cadenas
