@@ -1,3 +1,5 @@
+#contador con iter del 10 al 15
+
 class Contador:
     def __init__(self, inicio, fin):
         self.actual = inicio
